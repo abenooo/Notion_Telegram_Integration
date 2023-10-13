@@ -23,7 +23,7 @@ Install Dependencies
 npm install
 Environment Variables
 
-Create a .env file in the root directory.
+# Create a .env file in the root directory.
 Add your Notion API key, Notion database ID, and Telegram Bot Token.
 makefile
 NOTION_API_KEY=your_notion_api_key_here
