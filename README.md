@@ -12,7 +12,7 @@ Setup and Installation
 Clone the Repository
 
 # bash
-git clone https://your-repository-link-here.git
+https://github.com/abenooo/oLab_Notion_Telegram_Integration
 Navigate to Project Directory
 
 # bash
